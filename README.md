@@ -24,5 +24,3 @@ Contributions, feedback, and suggestions for improvement are welcome. Feel free 
 Acknowledgments:
 Special thanks to breakingintowallstreet.com for providing the Otis case study and to the financial community for their insights and contributions to financial modeling practices.
 
-Note:
-Please refer to the README file and comments within the Excel model for additional information and guidance on navigating the model effectively.
